@@ -1,0 +1,16 @@
+{
+    "name": "Galaxy Avocado Token 🥑🥑🥑",
+    "description": "Super Cool Galaxy Avocados are on the fly to Earth! Grab them!",
+    "image": "https://raw.githubusercontent.com/Majchrzak202/GalaxyAvocado-/master/NFT/NFTMETADATA/galaxyavocado_1.webp",
+    "external_url": "https://ethereum-blockchain-developer.com",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Spaceturtle"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
